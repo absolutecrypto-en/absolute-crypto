@@ -1,6 +1,6 @@
 # Privacy Policy for Absolute Axiom
 
-Last updated: [Date]
+Last updated: 22.08.2025
 
 ## Data Collection
 Absolute Axiom collects minimal data necessary for functionality:
