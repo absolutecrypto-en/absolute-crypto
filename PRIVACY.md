@@ -22,8 +22,5 @@ Absolute Axiom collects minimal data necessary for functionality:
 - No tracking or analytics services are used
 - WebSocket connections are only to axiom.trade
 
-## Contact
-For privacy concerns: [your-email]
-
 ## Changes
 This policy may be updated. Check this page for updates.
